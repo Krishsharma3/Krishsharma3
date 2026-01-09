@@ -10,7 +10,7 @@ Currently pursuing a Master of Science degree in Data Science and Machine Learni
 
 ## Experience
 
-### Senior Network Engineer L3
+### IT Infrastructure and Network Manager
 
 **Alliance Worldwide Health Tech, UK**  
 November 2023 - Present, Gurgaon
